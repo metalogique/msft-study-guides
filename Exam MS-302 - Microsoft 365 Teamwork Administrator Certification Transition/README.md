@@ -233,3 +233,8 @@ Configure user profile properties
 - Recommend tools and strategies to migrate data
   - https://docs.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool
   - https://docs.microsoft.com/en-us/sharepointmigration/sharepoint-migration-identity-mapping-tool
+
+
+
+
+Realted exam: https://www.microsoft.com/en-us/learning/exam-ms-302.aspx
