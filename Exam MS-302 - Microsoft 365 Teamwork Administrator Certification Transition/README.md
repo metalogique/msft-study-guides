@@ -90,8 +90,11 @@ Configure user profile properties
     - https://docs.microsoft.com/en-us/onedrive/retention-and-deletion
 - Manage sharing and security
   - Configure data encryption in OneDrive for Business
+    - https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key#CreateDEP4SPOODfB
   - Control access to OneDrive for Business from unmanaged devices
+    - https://docs.microsoft.com/en-us/sharepoint/control-access-from-unmanaged-devices
   - Audit sharing activities and view files shared with people outside an organization
+    - https://admin.onedrive.com/?v=ComplianceSettings
 - Manage sync security
   - Recommend group policy settings to control OneDrive sync client settings
     - https://docs.microsoft.com/en-us/onedrive/use-group-policy
